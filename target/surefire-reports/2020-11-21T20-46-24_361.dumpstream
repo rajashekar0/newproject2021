@@ -1,0 +1,4 @@
+# Created at 2020-11-21T20:46:24.896
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Automation\AutomationNested\com.tddtestng.gui.facebook\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

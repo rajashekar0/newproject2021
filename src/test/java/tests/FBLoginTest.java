@@ -111,7 +111,7 @@ public class FBLoginTest
 	public void closeSite()
 	{
 		//Close site
-		driver.close();
+		tu.closeSite();
 	}
 	
 	//Automating Results file
