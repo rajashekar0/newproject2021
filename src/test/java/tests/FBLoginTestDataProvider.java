@@ -34,7 +34,7 @@ public class FBLoginTestDataProvider
 	{
 		Object[][] data=new Object[][] 
 		{
-			{"","blank","PNRSIR@123","alid"},
+			{"","blank","PNRSIR@123","valid"},
 			{"codenonnnncontributors123@gmail.com","invalid","PNRSIR@123","valid"},
 			{"codecontributors123@gmail.com","valid","","blank"},
 			{"codecontributors123@gmail.com","valid","nageswararao","invalid"},
